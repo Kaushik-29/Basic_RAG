@@ -24,7 +24,7 @@ This is a **Retrieval-Augmented Generation (RAG)** based Streamlit app that allo
 - **LLM:** Google Gemini 1.5 Flash
 - **Embedding Model:** all-mpnet-base-v2 (Sentence Transformers)
 - **Vector Store:** FAISS
-- **Frameworks/Libraries:** LangChain, HuggingFace, PyPDF2, python-docx
+- **Frameworks/Libraries:** LangChain, HuggingFace, PyPDF2, python-docx.
 
 ---
 
